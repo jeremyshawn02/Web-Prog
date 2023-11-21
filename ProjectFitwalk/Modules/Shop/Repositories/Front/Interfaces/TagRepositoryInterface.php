@@ -2,8 +2,8 @@
 
 namespace Modules\Shop\Repositories\Front\Interfaces;
 
-interface ProductRepositoryInterface
+interface TagRepositoryInterface
 {
     public function findAll($options = []);
-    public function findBySKU($sku);
+    public function findBySlug($slug);
 }
