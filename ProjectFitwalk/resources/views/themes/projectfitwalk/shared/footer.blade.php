@@ -3,7 +3,6 @@
     <div class="row row-content">
       <div class="col-md-6">
         <h1 class="logo-brand">Fit<span>Walk</span></h1>
-        <p>"Logo Disini"</p>
       </div>
       <div class="col-md-3 mt-4 mt-sm-0">
         <h3 class="mb-3">Navigation</h3>
@@ -17,7 +16,7 @@
       <div class="col-md-3 mt-4 mt-sm-0">
         <h3 class="mb-3">Binus University</h3>
         <a href="#">JeremyShawn@binus.ac.id</a>
-        <p>Jln. Kemanggisan Raya, No 69 Jakarta Barat Indonesia</p>
+        <p>Jln. Kemanggisan Raya, No 11 Jakarta Barat Indonesia</p>
       </div>
     </div>
     <div class="row row-copy mt-4 mt-sm-0">
