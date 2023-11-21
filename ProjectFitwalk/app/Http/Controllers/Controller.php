@@ -15,11 +15,11 @@ class Controller extends BaseController
 
     public function __construct()
     {
-        
+        $this->data['theme'] = env('APP_THEME', 'default');
     }
 
     protected function loadTheme($view, $data = [])
     {
-        return view('themes/'. env('APP_THEME', 'default') . '/' . $view , $data); 
+        return view('themes/'. env('APP_THEME', 'default') . '/' . $view , $data);
     }
 }

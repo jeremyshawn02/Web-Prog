@@ -27,6 +27,8 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
+                <a href="/shopcart" class="btn btn-primary">Place Order</a>
+
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav me-auto">
